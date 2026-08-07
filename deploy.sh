@@ -14,7 +14,7 @@ df -h /
 # Checking Connectivity
 echo -e "\n2. Pengujian Koneksi ke $TARGET_HOST:"
 if ping -c 2 $TARGET_HOST > /dev/null 2>&1; then
-    echo "[OK] Terkoneksi Internet."
+    echo "[OK] Saat ini Terkoneksi Internet."
 else
     echo "[ERROR] Tidak dapat terhubung ke internet!"
 fi
