@@ -1,0 +1,1 @@
+echo "Docker setup completed"
