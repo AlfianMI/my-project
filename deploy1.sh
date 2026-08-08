@@ -2,4 +2,4 @@
 
 echo "Testing reset"
 echo "Belajar git lewat VS Code"
-echo "Test merge konflik"
+echo "Test git fetch"
